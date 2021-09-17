@@ -1,0 +1,62 @@
+/* Style page index.html */
+.center {
+    text-align: center;
+ }
+ 
+ .justify{
+    text-align: justify;
+ }
+ #menu li {
+    display: inline;
+    padding: 15px;
+    
+ }
+ #menu li a {
+    text-decoration: none;
+    color: #546de5;
+    font-size: 20px;
+ }
+ #menu li a:hover {
+    color: grey;
+ }
+
+/* Style page sobre.html */
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+ }
+ .color_home {
+    background-color:rgb(49, 155, 128);
+ }
+ .color_sobre {
+    background-color:rgb(155, 49, 54);
+ }
+
+
+
+/* Style page portfolio.html */
+
+
+
+/* Style page contato.html */
+.p-30 {
+    padding: 30px;
+ }
+ 
+ .br-50 {
+    border-radius: 50%;
+ }
+
+ .tm-social {
+    width: 50px;
+    height: 50px;
+ }
+ .mb-50{
+    margin-bottom: 50px;
+ }
+ .ml-50 {
+    margin-left: 50px;
+ }
+
